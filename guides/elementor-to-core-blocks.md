@@ -72,7 +72,7 @@ Each Elementor Widget has its own structure and parameters, for example, the Wid
 }
 ```
 
-Which is possible to parse and use the array of 'tabs` to create a group of Detail Blocks with that information.
+Which is possible to parse and use the array of `tabs` to create a group of Detail Blocks with that information.
 
 [^1]: Elementor uses Font Awesome to render icons, so it is possible to replace the icon part of these widgets with Font Awesome icons. Therefore, one could add Font Awesome to the target system and replace Elementor Icons with an Core HTML Block and using the icons with `<i>` or `<span>` elements. More information: <https://docs.fontawesome.com/v5/web/reference-icons/>
 
